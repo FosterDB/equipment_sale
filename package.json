@@ -1,0 +1,19 @@
+{
+  "name": "equipment_sale",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FosterDB/equipment_sale.git"
+  },
+  "author": "David Foster",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FosterDB/equipment_sale/issues"
+  },
+  "homepage": "https://github.com/FosterDB/equipment_sale#readme"
+}
